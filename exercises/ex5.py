@@ -1,6 +1,6 @@
 my_name = "Jason Ephraim"
 my_age = 35
-my_height = 74
+my_height = 73
 my_weight = 180
 my_eyes = "blue"
 my_teeth = "white"
