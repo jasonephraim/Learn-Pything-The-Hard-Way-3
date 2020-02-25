@@ -6,11 +6,11 @@ my_eyes = "blue"
 my_teeth = "white"
 my_hair = "brown"
 
-print("Let's talk about {my_name}.")
-print("He's {my_height} inches tall.")
-print("He's {my_weight} pounds heavy.")
+print(f"Let's talk about {my_name}.")
+print(f"He's {my_height} inches tall.")
+print(f"He's {my_weight} pounds heavy.")
 print("Actually that's not too heavy")
-print("He's got {my_eyes} and {my_hair}.")
-print("His teeth are usually {my_teeth} depending on the coffee.")
+print(f"He's got {my_eyes} and {my_hair}.")
+print(f"His teeth are usually {my_teeth} depending on the coffee.")
 total = my_age + my_height + my_weight
-print("If I add {my_age}, {my_height} and {my_weight) I get {total}")
+print(f"If I add {my_age}, {my_height} and {my_weight) I get {total}")
